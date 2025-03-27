@@ -36,17 +36,5 @@ The project aims to expand its capabilities through:
 ## Contract Details
 - **Contract Address**: `0x72618075bcc5565ede9da781a11c0dd5dec52f39139e0f5b063969adf8e7c5d3`
 
-## Getting Started
-1. Ensure you have the Aptos CLI installed
-2. Compile the smart contract
-3. Deploy to the Aptos network
-4. Initialize the scholarship program
-
-## Contributing
-We welcome contributions! Please read our contribution guidelines and submit pull requests to help improve the platform.
-
-## License
-[Specify your license here - e.g., MIT, Apache 2.0]
-
 ![image](https://github.com/user-attachments/assets/498d4bd2-fb4c-4ec1-bac5-ed4798f7f880)
 
