@@ -1,0 +1,15 @@
+[package]
+name = "Decentralized-scholarship-distribution-platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ScholarshipModule="0x72618075bcc5565ede9da781a11c0dd5dec52f39139e0f5b063969adf8e7c5d3"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
